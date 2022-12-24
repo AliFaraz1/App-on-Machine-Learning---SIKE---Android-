@@ -1,0 +1,23 @@
+chatbot nlp deep learning ke through informative , what is depression , anxiety 
+
+quiz 60 , personal ,personality trait , severe mild 5 forms simple ML (SVC)
+
+speech  recog  , audioform daTa 8 classes happiness sad fear , short clear .  deep learning neural network (LSTM)
+
+facial recog , cnn , happy face 
+
+maps live loc aygi therapists marker , library map import hardcoded markers 
+
+aws cloud storage plan 
+
+
+model train karwa ke stored in json file takay bar bar nahi karwana paray train 
+
+
+
+https://github.com/muhammadkhalid621/SIKE frontend
+
+https://github.com/muhammadkhalid621/sike-backend backend
+https://exp.host/@muhammadkhalid621/SIKE app url to run the app on phone , 
+
+app pass , hello@gmail.com helloworld
